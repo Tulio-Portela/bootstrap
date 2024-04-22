@@ -1,0 +1,22 @@
+
+        
+        .navbar-brand {
+          color: rgb(96, 91, 91);
+        }
+        .navbar-brand .fas {
+          color: black; 
+        }
+  img {
+    width: 200px;
+  }
+  .no-padding {
+        padding: 0 !important;
+        margin: 1 !important;
+    }
+    .my-1 {
+        margin-left: .25rem;
+        margin-right: .25rem;
+    }
+
+ 
+
